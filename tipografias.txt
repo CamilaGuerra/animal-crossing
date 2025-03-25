@@ -1,0 +1,35 @@
+font-family: 'Anek Latin', sans-serif;
+font-family: 'League Gothic', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Titan One', cursive;
+
+
+
+if-else (clase-3)
+while
+
+Array [] (clase4)
+
+alert-prompt-confirm (clase 5)
+
+setTimeout() - window.open() - window-close() (clase-6)
+
+document.geElemetby... - getAtributte - innetHTML(clase7)
+
+jQuery (clase 8 y 9)
+
+SASS (clase 10) ejercicio cuadrados
+
+componentes boostrap (modal-acordeon-carrusel-popover) 
+y shown-show-hide-hidden (clase 11)
+
+cambiar la info de modals con formulario (clase-12)
+
+AJAX (mostrar texto de otros html o txt dentro de la carpeta) (clase 13)
+
+post-get-error (clase 14)
+
+usar tabla (o alguna otra cosa) que refleje Json, varios objetos (ej: juan perez de lego) (clase 15)
+
+
+
